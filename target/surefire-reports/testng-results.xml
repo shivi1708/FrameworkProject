@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="17270" started-at="2020-07-27T17:09:38 IST" finished-at="2020-07-27T17:09:55 IST">
+    <groups>
+    </groups>
+    <test name="ValidateTitleTest" duration-ms="12249" started-at="2020-07-27T17:09:38 IST" finished-at="2020-07-27T17:09:50 IST">
+      <class name="E2EFrameWork.ValidateTitleTest">
+        <test-method status="PASS" signature="initialing()[pri:0, instance:E2EFrameWork.ValidateTitleTest@6b81ce95]" name="initialing" is-config="true" duration-ms="9988" started-at="2020-07-27T17:09:38 IST" finished-at="2020-07-27T17:09:48 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialing -->
+        <test-method status="PASS" signature="ValiteTitleTest()[pri:0, instance:E2EFrameWork.ValidateTitleTest@6b81ce95]" name="ValiteTitleTest" duration-ms="164" started-at="2020-07-27T17:09:48 IST" finished-at="2020-07-27T17:09:48 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValiteTitleTest -->
+        <test-method status="PASS" signature="closeDriver()[pri:0, instance:E2EFrameWork.ValidateTitleTest@6b81ce95]" name="closeDriver" is-config="true" duration-ms="2057" started-at="2020-07-27T17:09:48 IST" finished-at="2020-07-27T17:09:50 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+      </class> <!-- E2EFrameWork.ValidateTitleTest -->
+    </test> <!-- ValidateTitleTest -->
+    <test name="LoginPageTest" duration-ms="4984" started-at="2020-07-27T17:09:51 IST" finished-at="2020-07-27T17:09:55 IST">
+      <class name="E2EFrameWork.LoginPageTest">
+        <test-method status="PASS" signature="initialing()[pri:0, instance:E2EFrameWork.LoginPageTest@10e31a9a]" name="initialing" is-config="true" duration-ms="4163" started-at="2020-07-27T17:09:51 IST" finished-at="2020-07-27T17:09:55 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialing -->
+        <test-method status="PASS" signature="LoginPageTest()[pri:0, instance:E2EFrameWork.LoginPageTest@10e31a9a]" name="LoginPageTest" duration-ms="618" started-at="2020-07-27T17:09:55 IST" finished-at="2020-07-27T17:09:55 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginPageTest -->
+        <test-method status="PASS" signature="closeDriver()[pri:0, instance:E2EFrameWork.LoginPageTest@10e31a9a]" name="closeDriver" is-config="true" duration-ms="201" started-at="2020-07-27T17:09:55 IST" finished-at="2020-07-27T17:09:55 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+      </class> <!-- E2EFrameWork.LoginPageTest -->
+    </test> <!-- LoginPageTest -->
+  </suite> <!-- Suite -->
+</testng-results>
